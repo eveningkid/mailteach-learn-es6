@@ -1,0 +1,12 @@
+{
+  "lessons": {
+    "1": {
+      "title": "Arrow functions",
+      "path": "lesson-1.md"
+    },
+    "2": {
+      "title": "Classes",
+      "path": "lesson-2.md"
+    }
+  }
+}
