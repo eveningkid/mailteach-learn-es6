@@ -7,11 +7,13 @@ export function sum(x, y) {
 }
 export var pi = 3.141593;
 ```
+
 ```JavaScript
 // app.js
 import * as math from "lib/math";
 alert("2π = " + math.sum(math.pi, math.pi));
 ```
+
 ```JavaScript
 // otherApp.js
 import {sum, pi} from "lib/math";
@@ -28,6 +30,7 @@ export default function(x) {
     return Math.log(x);
 }
 ```
+
 ```JavaScript
 // app.js
 import ln, {pi, e} from "lib/mathplusplus";

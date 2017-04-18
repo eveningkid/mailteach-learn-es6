@@ -22,6 +22,7 @@ for (var n of fibonacci) {
 ```
 
 Iteration is based on these duck-typed interfaces (using [TypeScript](http://typescriptlang.org) type syntax for exposition only):
+
 ```TypeScript
 interface IteratorResult {
   done: boolean;

@@ -7,6 +7,7 @@ function f(x, y=12) {
 }
 f(3) == 15
 ```
+
 ```JavaScript
 function f(x, ...y) {
   // y is an Array
@@ -14,6 +15,7 @@ function f(x, ...y) {
 }
 f(3, "hello", true) == 6
 ```
+
 ```JavaScript
 function f(x, y, z) {
   return x + y + z;
