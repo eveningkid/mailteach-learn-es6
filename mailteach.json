@@ -7,6 +7,42 @@
     "2": {
       "title": "Classes",
       "path": "lesson-2.md"
+    },
+    "3": {
+      "title": "Enhanced Object Literals",
+      "path": "lesson-3.md"
+    },
+    "4": {
+      "title": "Template Strings",
+      "path": "lesson-4.md"
+    },
+    "5": {
+      "title": "Destructuring",
+      "path": "lesson-5.md"
+    },
+    "6": {
+      "title": "Default + Rest + Spread",
+      "path": "lesson-6.md"
+    },
+    "7": {
+      "title": "Let + Const",
+      "path": "lesson-7.md"
+    },
+    "8": {
+      "title": "Iterators + For..Of",
+      "path": "lesson-8.md"
+    },
+    "9": {
+      "title": "Generators",
+      "path": "lesson-9.md"
+    },
+    "10": {
+      "title": "Modules",
+      "path": "lesson-10.md"
+    },
+    "11": {
+      "title": "Map + Set + WeakMap + WeakSet",
+      "path": "lesson-11.md"
     }
   }
 }

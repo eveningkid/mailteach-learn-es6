@@ -25,3 +25,5 @@ class SkinnedMesh extends THREE.Mesh {
   }
 }
 ```
+
+More info: [MDN Classes](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes)

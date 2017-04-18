@@ -22,3 +22,5 @@ var bob = {
   }
 }
 ```
+
+More info: [MDN Arrow Functions](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
